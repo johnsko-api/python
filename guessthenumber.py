@@ -20,3 +20,7 @@ while True:
     if guess == the_number:
         print "Congratulations! You got it in {} guesses.".format(counter)
         break
+
+# output infinitely prints out either too high, or too low
+# i don't get this flow control am i supposed to break the loop
+# will read more
